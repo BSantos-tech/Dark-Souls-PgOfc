@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: black;
+}
+.logo{
+    background-color: rgb(51, 51, 51);
+}
+.link{
+    border-top: 1px solid rgb(44, 43, 43);
+    background-color: rgb(51, 51, 51);
+}
+.footer{
+    background-color: rgb(51,51,51);
+}
